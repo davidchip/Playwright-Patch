@@ -1,0 +1,7 @@
+Animake Patch Sync
+Date: Tue Aug 26 05:39:16 UTC 2025
+Files:
+ core/throttledFile.patched.js
+ core/program.patched.js
+ src/throttledFile-transform.js
+ scripts/test-cli.mjs
